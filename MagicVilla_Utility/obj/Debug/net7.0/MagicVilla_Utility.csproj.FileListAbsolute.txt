@@ -1,0 +1,24 @@
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Utility\bin\Debug\net7.0\MagicVilla_Utility.deps.json
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Utility\bin\Debug\net7.0\MagicVilla_Utility.dll
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Utility\bin\Debug\net7.0\MagicVilla_Utility.pdb
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Utility\obj\Debug\net7.0\MagicVilla_Utility.csproj.AssemblyReference.cache
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Utility\obj\Debug\net7.0\MagicVilla_Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Utility\obj\Debug\net7.0\MagicVilla_Utility.AssemblyInfoInputs.cache
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Utility\obj\Debug\net7.0\MagicVilla_Utility.AssemblyInfo.cs
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Utility\obj\Debug\net7.0\MagicVilla_Utility.csproj.CoreCompileInputs.cache
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Utility\obj\Debug\net7.0\MagicVilla_Utility.dll
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Utility\obj\Debug\net7.0\refint\MagicVilla_Utility.dll
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Utility\obj\Debug\net7.0\MagicVilla_Utility.pdb
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Utility\obj\Debug\net7.0\ref\MagicVilla_Utility.dll
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Utility\bin\Debug\net7.0\MagicVilla_Utility.deps.json
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Utility\bin\Debug\net7.0\MagicVilla_Utility.dll
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Utility\bin\Debug\net7.0\MagicVilla_Utility.pdb
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Utility\obj\Debug\net7.0\MagicVilla_Utility.csproj.AssemblyReference.cache
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Utility\obj\Debug\net7.0\MagicVilla_Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Utility\obj\Debug\net7.0\MagicVilla_Utility.AssemblyInfoInputs.cache
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Utility\obj\Debug\net7.0\MagicVilla_Utility.AssemblyInfo.cs
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Utility\obj\Debug\net7.0\MagicVilla_Utility.csproj.CoreCompileInputs.cache
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Utility\obj\Debug\net7.0\MagicVilla_Utility.dll
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Utility\obj\Debug\net7.0\refint\MagicVilla_Utility.dll
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Utility\obj\Debug\net7.0\MagicVilla_Utility.pdb
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Utility\obj\Debug\net7.0\ref\MagicVilla_Utility.dll

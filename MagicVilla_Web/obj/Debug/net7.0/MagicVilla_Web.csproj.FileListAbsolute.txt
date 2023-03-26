@@ -1,0 +1,79 @@
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Web\bin\Debug\net7.0\appsettings.json
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Web\bin\Debug\net7.0\MagicVilla_Web.staticwebassets.runtime.json
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Web\bin\Debug\net7.0\MagicVilla_Web.exe
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Web\bin\Debug\net7.0\MagicVilla_Web.deps.json
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Web\bin\Debug\net7.0\MagicVilla_Web.runtimeconfig.json
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Web\bin\Debug\net7.0\MagicVilla_Web.dll
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Web\bin\Debug\net7.0\MagicVilla_Web.pdb
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Web\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Web\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Web\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Web\bin\Debug\net7.0\MagicVilla_Utility.dll
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Web\bin\Debug\net7.0\MagicVilla_Utility.pdb
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Web\obj\Debug\net7.0\MagicVilla_Web.csproj.AssemblyReference.cache
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Web\obj\Debug\net7.0\MagicVilla_Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Web\obj\Debug\net7.0\MagicVilla_Web.AssemblyInfoInputs.cache
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Web\obj\Debug\net7.0\MagicVilla_Web.AssemblyInfo.cs
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Web\obj\Debug\net7.0\MagicVilla_Web.csproj.CoreCompileInputs.cache
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Web\obj\Debug\net7.0\MagicVilla_Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Web\obj\Debug\net7.0\MagicVilla_Web.RazorAssemblyInfo.cache
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Web\obj\Debug\net7.0\MagicVilla_Web.RazorAssemblyInfo.cs
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Web\obj\Debug\net7.0\staticwebassets\msbuild.MagicVilla_Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Web\obj\Debug\net7.0\staticwebassets\msbuild.build.MagicVilla_Web.props
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MagicVilla_Web.props
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MagicVilla_Web.props
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Web\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Web\obj\Debug\net7.0\scopedcss\bundle\MagicVilla_Web.styles.css
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Web\obj\Debug\net7.0\scopedcss\projectbundle\MagicVilla_Web.bundle.scp.css
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Web\obj\Debug\net7.0\MagicVilla_Web.csproj.CopyComplete
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Web\obj\Debug\net7.0\MagicVilla_Web.dll
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Web\obj\Debug\net7.0\refint\MagicVilla_Web.dll
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Web\obj\Debug\net7.0\MagicVilla_Web.pdb
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Web\obj\Debug\net7.0\MagicVilla_Web.genruntimeconfig.cache
+C:\Users\Alon\Desktop\Magic_Villa\MagicVilla_Web\obj\Debug\net7.0\ref\MagicVilla_Web.dll
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\bin\Debug\net7.0\appsettings.json
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\bin\Debug\net7.0\MagicVilla_Web.staticwebassets.runtime.json
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\bin\Debug\net7.0\MagicVilla_Web.exe
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\bin\Debug\net7.0\MagicVilla_Web.deps.json
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\bin\Debug\net7.0\MagicVilla_Web.runtimeconfig.json
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\bin\Debug\net7.0\MagicVilla_Web.dll
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\bin\Debug\net7.0\MagicVilla_Web.pdb
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\bin\Debug\net7.0\MagicVilla_Utility.dll
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\bin\Debug\net7.0\MagicVilla_Utility.pdb
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\obj\Debug\net7.0\MagicVilla_Web.csproj.AssemblyReference.cache
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\obj\Debug\net7.0\MagicVilla_Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\obj\Debug\net7.0\MagicVilla_Web.AssemblyInfoInputs.cache
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\obj\Debug\net7.0\MagicVilla_Web.AssemblyInfo.cs
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\obj\Debug\net7.0\MagicVilla_Web.csproj.CoreCompileInputs.cache
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\obj\Debug\net7.0\MagicVilla_Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\obj\Debug\net7.0\MagicVilla_Web.RazorAssemblyInfo.cache
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\obj\Debug\net7.0\MagicVilla_Web.RazorAssemblyInfo.cs
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\obj\Debug\net7.0\staticwebassets\msbuild.MagicVilla_Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\obj\Debug\net7.0\staticwebassets\msbuild.build.MagicVilla_Web.props
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MagicVilla_Web.props
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MagicVilla_Web.props
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\obj\Debug\net7.0\scopedcss\bundle\MagicVilla_Web.styles.css
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\obj\Debug\net7.0\scopedcss\projectbundle\MagicVilla_Web.bundle.scp.css
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\obj\Debug\net7.0\MagicVilla_Web.csproj.CopyComplete
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\obj\Debug\net7.0\MagicVilla_Web.dll
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\obj\Debug\net7.0\refint\MagicVilla_Web.dll
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\obj\Debug\net7.0\MagicVilla_Web.pdb
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\obj\Debug\net7.0\MagicVilla_Web.genruntimeconfig.cache
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\obj\Debug\net7.0\ref\MagicVilla_Web.dll
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alon\Desktop\Magic_Villa - Copy\MagicVilla_Web\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
